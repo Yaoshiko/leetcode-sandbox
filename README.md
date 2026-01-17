@@ -1,2 +1,3 @@
-# leetcode-sandbox
-Sandbox to run and debug LeetCode problems
+# Leetcode Sandbox
+
+Just a sandbox to run and debug Leetcode problems.
